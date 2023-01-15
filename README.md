@@ -23,3 +23,14 @@ R cuenta con una gran comunidad activa que contribuye constantemente a mejorar e
 - [DataCamp](https://www.datacamp.com/courses/free-introduction-to-r)
 
 R es una herramienta poderosa para el análisis de datos, con una gran cantidad de funciones y paquetes disponibles para realizar tareas estadísticas y de minería de datos avanzadas. Con una gran comunidad y una gran cantidad de recursos disponibles, aprender R es fácil y accesible.
+
+## Autor
+* [@OmarUTEC](https://github.com/OmarUTEC)
+
+- El sitio web oficial del lenguaje R: https://www.r-project.org/
+- La documentación oficial de R: https://cran.r-project.org/manuals.html
+- El libro "R para Ciencia de Datos" de Hadley Wickham y Garrett Grolemund: https://r4ds.had.co.nz/
+- El libro "An Introduction to R" de W. N. Venables, D. M. Smith y the R Development Core Team: https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf
+- El tutorial interactivo "Try R" de Code School: https://www.codeschool.com/courses/try-r
+- El tutorial "R Programming" de Coursera: https://www.coursera.org/learn/r-programming
+- El tutorial "R Tutorial" de StatMethods: https://www.statmethods.net/index.html
