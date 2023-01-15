@@ -1,6 +1,8 @@
 
 ![R](https://www.r-project.org/logo/Rlogo.png)
 
+![](https://github.com/OmarUTEC/R/images/Omar.png){width='100px'}
+
 # ¿Qué es R?
 
 R es un lenguaje de programación y entorno de software libre para el análisis estadístico y gráficos. Fue desarrollado originalmente por Ross Ihaka y Robert Gentleman en la Universidad de Auckland, Nueva Zelanda, y es ampliamente utilizado en investigación estadística, análisis de datos y minería de datos en una variedad de campos, incluyendo la biología, economía y ciencias sociales.
