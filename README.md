@@ -1,9 +1,6 @@
 
 ![R](https://www.r-project.org/logo/Rlogo.png)
 
-<p align="center">
-  <img src="Omar.png" />
-</p>
 
 # ¿Qué es R?
 
