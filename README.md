@@ -1,7 +1,7 @@
 
 ![R](https://www.r-project.org/logo/Rlogo.png)
 
-![](https://github.com/OmarUTEC/R/images/Omar.png){width='100px'}
+![](https://github.com/OmarUTEC/R/images/Omar.png){}
 
 # ¿Qué es R?
 
