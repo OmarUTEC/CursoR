@@ -27,6 +27,8 @@ R es una herramienta poderosa para el análisis de datos, con una gran cantidad 
 ## Autor
 * [@OmarUTEC](https://github.com/OmarUTEC)
 
+## Bibliografía y Referencias
+
 - El sitio web oficial del lenguaje R: https://www.r-project.org/
 - La documentación oficial de R: https://cran.r-project.org/manuals.html
 - El libro "R para Ciencia de Datos" de Hadley Wickham y Garrett Grolemund: https://r4ds.had.co.nz/
