@@ -36,5 +36,4 @@ R es una herramienta poderosa para el análisis de datos, con una gran cantidad 
 - El tutorial interactivo "Try R" de Code School: https://www.codeschool.com/courses/try-r
 - El tutorial "R Programming" de Coursera: https://www.coursera.org/learn/r-programming
 - El tutorial "R Tutorial" de StatMethods: https://www.statmethods.net/index.html
-
-## Licencia MIT
+- El tutorial "R Tutorial" de DataCamp: https://www.datacamp.com/courses/free-introduction-to-r
