@@ -1,13 +1,6 @@
 
 ![R](https://www.r-project.org/logo/Rlogo.png)
 
-<<<<<<< HEAD
-<p align="center">
-  <img src="Omar.png" />
-</p>
-=======
-![](https://github.com/OmarUTEC/R/images/Omar.png){}
->>>>>>> d50c8157c51ebfe7fd0bd8b1d2af85cc2a9ecb96
 
 # ¿Qué es R?
 
