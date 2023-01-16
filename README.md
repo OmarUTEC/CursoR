@@ -1,7 +1,6 @@
 
 ![R](https://www.r-project.org/logo/Rlogo.png)
 
-
 # ¿Qué es R?
 
 R es un lenguaje de programación y entorno de software libre para el análisis estadístico y gráficos. Fue desarrollado originalmente por Ross Ihaka y Robert Gentleman en la Universidad de Auckland, Nueva Zelanda, y es ampliamente utilizado en investigación estadística, análisis de datos y minería de datos en una variedad de campos, incluyendo la biología, economía y ciencias sociales.
@@ -37,3 +36,5 @@ R es una herramienta poderosa para el análisis de datos, con una gran cantidad 
 - El tutorial interactivo "Try R" de Code School: https://www.codeschool.com/courses/try-r
 - El tutorial "R Programming" de Coursera: https://www.coursera.org/learn/r-programming
 - El tutorial "R Tutorial" de StatMethods: https://www.statmethods.net/index.html
+
+## Licencia MIT
