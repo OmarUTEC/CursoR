@@ -1,7 +1,6 @@
 # Listas
 
 # Objetivo: estudiar qué son las listas en R
-# ——————————————-
 # En este ejercicio vamos a:
 # 1. Crear listas en R
 # 2. Seleccionar elementos de una lista
@@ -23,6 +22,7 @@ fox <- c(18, 15, 15, 15, 16, 17, 15, 13, 11)
 
 # crear diferentes estructuras de datos en R
 vector_titulos <- nombre
+
 matriz_peliculas <- matrix(c(warner, disney, fox),
                            nrow = 9,
                            ncol = 3)
@@ -44,7 +44,6 @@ lista_curso
 
 # cambiar nombre de dataframe
 names(lista_curso) <- c('vector', 'matriz')
-
 
 # mostrar lista (sí, otra vez)
 lista_curso
@@ -78,3 +77,6 @@ lista_curso[['vector']] <- NULL
 
 # revisar que no está el vector
 lista_curso
+
+# eliminar la lista
+rm(lista_curso)
