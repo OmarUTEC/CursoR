@@ -1,6 +1,6 @@
 # Factores
 
-# Objetivo: estudiar qué son factores en R.
+# Objetivo: estudiar qué son Factores en R.
 # ——————————————–
 # En este ejercicio vamos a:
 # 1. Crear factores en R

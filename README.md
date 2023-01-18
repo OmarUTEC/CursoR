@@ -24,7 +24,7 @@ R cuenta con una gran comunidad activa que contribuye constantemente a mejorar e
 
 R es una herramienta poderosa para el análisis de datos, con una gran cantidad de funciones y paquetes disponibles para realizar tareas estadísticas y de minería de datos avanzadas. Con una gran comunidad y una gran cantidad de recursos disponibles, aprender R es fácil y accesible.
 
-## Autor
+## Autor 🤖
 * [@OmarUTEC](https://github.com/OmarUTEC)
 
 ## Bibliografía y Referencias

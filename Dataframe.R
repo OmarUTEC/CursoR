@@ -1,6 +1,6 @@
 # Dataframes
 
-# Objetivo: estudiar qué son dataframes en R.
+# Objetivo: estudiar qué son Dataframes en R.
 # ——————————————–
 # En este ejercicio vamos a:
 # 1. Crear dataframes en R
