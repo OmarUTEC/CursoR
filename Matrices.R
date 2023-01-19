@@ -69,3 +69,9 @@ peliculas[c(1,1), c(2,3)]
 peliculas[,1]
 
 peliculas[1,]
+
+# seleccionar más de una columna
+peliculas[,c(1,2)]
+
+# seleccionar más de una fila
+peliculas[c(1,2),]
