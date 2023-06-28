@@ -48,7 +48,7 @@ P(A2) = f(A2)/n
 
 Comentarario sobre lo que mas le llama la atencion
 
-![Alt text](adv1.jpg)
+![Alt text](./assets/adv1.jpg)
 
 # Probabilidada Condicional
 
@@ -64,7 +64,7 @@ Horas de estudio -> B: Seleccionar 1 persona que estudia + de 10h a la semana.
 
 usar notacion matricial
 
-![Alt text](adv2.jpg)
+![Alt text](./assets/adv2.jpg)
 
 # 1 Validar la independencia de los eventos
 
@@ -86,4 +86,4 @@ P(A|B) = P(B|A) * P(B)/P(A)
 
 a11/TB * TB/T + a21/TBcomplemento * TBcomplemento/T
 
-![Alt text](adv3.jpg)
+![Alt text](./assets/adv3.jpg)
