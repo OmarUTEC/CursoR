@@ -75,4 +75,4 @@ P(Y > 100) = P(X <= 100)
 
 X ~ Bin(p , 200) -> P(X <= 100); pbinom(100, p(E), n, lower.tail = TRUE)
 
-
+# Se acabó CTMRE
