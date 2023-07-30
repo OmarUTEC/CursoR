@@ -1,6 +1,4 @@
-
 ![Alt text](./assets/R1.png)
-
 # Software R estadistic
 
 R es un lenguaje de programación y entorno de software libre para el análisis estadístico y gráficos. Fue desarrollado originalmente por Ross Ihaka y Robert Gentleman en la Universidad de Auckland, Nueva Zelanda, y es ampliamente utilizado en investigación estadística, análisis de datos y minería de datos en una variedad de campos, incluyendo la biología, economía y ciencias sociales.
@@ -33,7 +31,7 @@ R es una herramienta poderosa para el análisis de datos, con una gran cantidad 
 ```r
 x <- 5
 y <- 3.14
-z <- "Hola, mundo!"
+z <- "Hello, World!"
 ```
 
 - Operaciones aritméticas
